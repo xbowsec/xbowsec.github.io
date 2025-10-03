@@ -1,4 +1,4 @@
-Bug Bounty Workstation - Final Build
+# Bug Bounty Workstation - Final Build
 
 ## Core Components
 - **CPU**: Intel Core Ultra 9 285K - ₹65,999
